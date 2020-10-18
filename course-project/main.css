@@ -1,10 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
 
-section {
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+#product-overview {
   background-color: #ff1b68;
 }
 
-h1 {
+#product-overview h1 {
   color: #fff;
   font-family: 'Anton', sans-serif;
+}
+
+.section-title {
+  color: #2ddf5c;
 }
